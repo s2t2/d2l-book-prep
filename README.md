@@ -31,8 +31,9 @@ https://book.d2l.ai/user/build.html
 ```sh
 cd book
 rm -rf _build/ && d2lbook build all
-
+cp _build/pdf/book-prep.pdf ../book-prep.pdf
 ```
+
 ### Building HTML
 
 ```sh
@@ -53,10 +54,13 @@ rm -rf _build/html && d2lbook build html
 rm -rf _build/pdf && d2lbook build pdf
 ```
 
-This doesn't work? But it does generate a file "_build/pdf/book.tex" which you can convert to PDF manually via a website like this one https://cloudconvert.com/tex-to-pdf. JK, JK.
+This doesn't work? But it does generate a file "_build/pdf/book-prep.tex" which you can convert to PDF manually via a website like this one https://cloudconvert.com/tex-to-pdf. JK, JK.
 
+It will work if you don't have any image related issues, and if you've installed texlive.
 
-
+```sh
+cp _build/pdf/book-prep.pdf ../book-prep.pdf
+```
 
 ## Deploying
 

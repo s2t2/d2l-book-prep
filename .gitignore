@@ -1,4 +1,6 @@
 
+.DS_Store
+
 book/_build
 #book/_build/eval
 #book/_build/html

@@ -11,12 +11,8 @@ Chapter two index.
 ##### Orange
 
 
+JPEG images don't work though.
 
-![bot icon](/book/static/bot.png)
-
-
-![bot icon](static/bot.png)
-
-![bot icon](../static/bot.png)
 
 ![bot icon](../_static/bot.png)
+:width:`200px`
