@@ -1,3 +1,13 @@
+
+book/_build
+#book/_build/eval
+#book/_build/html
+#book/_build/ipynb
+#book/_build/rst
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

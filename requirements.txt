@@ -1,0 +1,7 @@
+
+# for jupyer notebooks:
+#jupyter
+
+
+# for making the book:
+git+https://github.com/d2l-ai/d2l-book
