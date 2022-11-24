@@ -7,7 +7,7 @@
 
 
 ```sh
-#brew install texlive
+brew install texlive
 ```
 
 ```sh
@@ -24,17 +24,30 @@ conda activate book-env
 pip install -r requirements.txt
 ```
 
-## Building HTML
+## Building
+
+https://book.d2l.ai/user/build.html
+
+### Building HTML
 
 ```sh
 # cd book && d2lbook build html
-cd book
-rm -rf _build
-d2lbook build html
+#
+# cd book
+# rm -rf _build
+# d2lbook build html
+
+rm -rf _build/html && d2lbook build html
 ```
 
-## Building PDF
+### Building PDF
 
 ```sh
 # cd book && d2lbook build pdf
+
+rm -rf _build/pdf && d2lbook build pdf
 ```
+
+## Deploying
+
+https://book.d2l.ai/user/deploy.html

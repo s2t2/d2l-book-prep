@@ -4,6 +4,7 @@ book/_build
 #book/_build/html
 #book/_build/ipynb
 #book/_build/rst
+#book/_build/pdf
 
 
 
