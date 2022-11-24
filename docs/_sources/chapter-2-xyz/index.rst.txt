@@ -16,6 +16,8 @@ H4
 Orange
 ''''''
 
+JPEG images don’t work though.
+
 .. figure:: ../_static/bot.png
    :width: 200px
 
