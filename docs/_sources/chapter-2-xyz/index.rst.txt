@@ -1,0 +1,23 @@
+
+Chapter 2 - XYZ
+===============
+
+Chapter two index.
+
+H2
+--
+
+H3
+~~
+
+H4
+^^
+
+Orange
+''''''
+
+.. figure:: ../_static/bot.png
+   :width: 200px
+
+   bot icon
+

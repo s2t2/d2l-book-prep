@@ -1,0 +1,21 @@
+
+My Book
+=======
+
+.. toctree::
+   :maxdepth: 1
+
+   preface/index
+   get_started
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+
+   chapter-1-abc/index
+   chapter-2-xyz/index
+
+.. toctree::
+   :maxdepth: 1
+
+   references

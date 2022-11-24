@@ -1,0 +1,23 @@
+
+Preface
+=======
+
+This is a preface.
+
+   Blockquote
+
+.. raw:: latex
+
+   \diilbookstyleinputcell
+
+.. code:: sh
+
+   pip install pandas
+
+.. raw:: latex
+
+   \diilbookstyleinputcell
+
+.. code:: py
+
+   print("HELLO")

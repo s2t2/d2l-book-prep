@@ -31,6 +31,8 @@ https://book.d2l.ai/user/build.html
 ```sh
 cd book
 rm -rf _build/ && d2lbook build all
+cp -r _build/html/ ../docs
+
 cp _build/pdf/book-prep.pdf ../book-prep.pdf
 ```
 
