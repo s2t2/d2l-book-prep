@@ -1,0 +1,7 @@
+# .readthedocs.yml
+#
+# fix build error:
+# ERROR: Package 'd2lbook' requires a different Python: 3.7.9 not in '>=3.8'
+#
+python:
+  version: 3.8

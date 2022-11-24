@@ -3,7 +3,9 @@
 The starting page of my book with `d2lbook`.
 
 
+This is a relative [link](about.md).
 
+This is an absolute [link](/book/about.md).
 
 ```toc
 :maxdepth: 1
